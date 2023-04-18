@@ -5,7 +5,7 @@
   </h1>
   
   <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=&size=18&pause=1000&center=true&vCenter=true&color=B62EF7&multiline=true&repeat=false&width=700&height=125&lines=Ola%2C+pra+quem+n%C3%A3o+me+conhece+me+chamo+Daniel+Reis+sou+estudante;de+engenharia+de+computa%C3%A7%C3%A3o+no+IFMG+Campus+Bambui.;Atualmente+estudando+Java+e+Python.;Meu+objetivo+%C3%A9+trabalhar+com+Backend+e+IA;e+cada+dia+mais+aperfei%C3%A7oar+meus+conhecimentos!!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=&size=18&duration=2500&pause=1000&color=B62EF7&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=125&lines=Ola%2C+pra+quem+n%C3%A3o+me+conhece+me+chamo+Daniel+Reis+sou+estudante;de+engenharia+de+computa%C3%A7%C3%A3o+no+IFMG+Campus+Bambui.;Atualmente+estudando+Java+e+Python.;Meu+objetivo+%C3%A9+trabalhar+com+Backend+e+IA;e+cada+dia+mais+aperfei%C3%A7oar+meus+conhecimentos!!" alt="Typing SVG" />
   </p>
   
 </div>
