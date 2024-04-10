@@ -20,20 +20,18 @@ Além da minha paixão pela programação, gosto de explorar novas tecnologias, 
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/B5179E" /> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5/B5179E"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/B5179E"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/react/B5179E"/>   
+    <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/B5179E"/>   
   </p>
 
   <h3 align="center">Backend</h3>
   <p align="center">
+    <img height="40" width="40" src="https://cdn.simpleicons.org/c++/7209B7"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/7209B7"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/express/7209B7"/>
     <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/7209B7"/>    
-    <img height="40" width="40" src="https://cdn.simpleicons.org/firebase/7209B7"/>    
   </p>
   
   <h3 align="center">Database</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/mongodb/560BAD"/>    
     <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/560BAD"/> 
   </p>
   
