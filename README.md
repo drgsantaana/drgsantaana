@@ -20,7 +20,8 @@ Além da minha paixão pela programação, gosto de explorar novas tecnologias, 
     <img height="40" width="40" src="https://cdn.simpleicons.org/css3/B5179E" /> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/html5/B5179E"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/B5179E"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/B5179E"/>   
+    <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/B5179E"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/react/B5179E"/> 
   </p>
 
   <h3 align="center">Backend</h3>
@@ -33,6 +34,7 @@ Além da minha paixão pela programação, gosto de explorar novas tecnologias, 
   <h3 align="center">Database</h3>
   <p align="center">
     <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/560BAD"/> 
+    
   </p>
   
   <!---
@@ -45,8 +47,7 @@ Além da minha paixão pela programação, gosto de explorar novas tecnologias, 
   
   <h3 align="center">Tools</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/trello/480CA8"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/visualstudio/480CA8"/>    
+    <img height="40" width="40" src="https://cdn.simpleicons.org/trello/480CA8"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/figma/480CA8"/> 
     <img height="40" width="40" src="https://cdn.simpleicons.org/git/480CA8"/> 
   </p>
