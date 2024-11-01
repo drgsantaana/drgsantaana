@@ -17,39 +17,41 @@ Além da minha paixão pela programação, gosto de explorar novas tecnologias, 
   <h2 align="center">Tech Stacks</h2>
   <h3 align="center">Frontend</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/css3/B5179E" /> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/html5/B5179E"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/B5179E"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap/B5179E"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/react/B5179E"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/css3" /> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/html5"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/javascript"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/bootstrap"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/react"/> 
   </p>
 
   <h3 align="center">Backend</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/c++/7209B7"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/7209B7"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/7209B7"/>    
+    <img height="40" width="40" src="https://cdn.simpleicons.org/openjdk"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/c++"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/typescript"/>
+    <img height="40" width="40" src="https://cdn.simpleicons.org/python"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/php"/>
   </p>
   
   <h3 align="center">Database</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/mysql/560BAD"/> 
-    
+    <img height="40" width="40" src="https://cdn.simpleicons.org/mysql"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/postgresql"/> 
   </p>
   
-  <!---
+  
   <h3 align="center">DevOps</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/docker/ff9000"/>
-    <img height="40" width="40" src="https://cdn.simpleicons.org/amazonaws/ff9000"/>        
+    <img height="40" width="40" src="https://cdn.simpleicons.org/docker"/>   
   </p>
-  --->
+
   
   <h3 align="center">Tools</h3>
   <p align="center">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/trello/480CA8"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/figma/480CA8"/> 
-    <img height="40" width="40" src="https://cdn.simpleicons.org/git/480CA8"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/trello"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/figma"/> 
+    <img height="40" width="40" src="https://cdn.simpleicons.org/git"/> 
   </p>
   
 </div>
