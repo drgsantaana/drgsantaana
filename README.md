@@ -4,10 +4,10 @@
 
 <div>
   <p>
-    Sou Daniel, desenvolvedor fullstack de Belo Horizonte, Brasil. Cursando Engenharia de Computação no IFMG-Bambuí, tenho base sólida em programação desde o ensino médio técnico em Informática. Trabalho com interfaces e sistemas robustos, sempre aprendendo e me atualizando. Exploro novas tecnologias, projetos desafiadores e soluções inovadoras. Nas horas vagas, pratico esportes, leio sobre tecnologia e curto amigos e família. Quero impactar o mundo da tecnologia.
+    Sou Daniel, desenvolvedor fullstack de Belo Horizonte, Brasil. Cursando Engenharia de Computação no IFMG-Bambuí, tenho base sólida em programação desde o ensino médio técnico em Informática. Trabalho com interfaces e sistemas robustos, sempre aprendendo e me atualizando.
   </p>
   <p>
-    I'm Daniel, a fullstack developer from Belo Horizonte, Brazil. Studying Computer Engineering at IFMG-Bambuí, I have a solid programming foundation from my high school IT technical course. I work on UI and robust backend systems, always learning and staying updated. I explore new tech, challenging projects, and innovative solutions. In my free time, I play sports, read tech books, and spend time with friends and family. I aim to impact the tech world.
+    I'm Daniel, a fullstack developer from Belo Horizonte, Brazil. Studying Computer Engineering at IFMG-Bambuí, I have a solid programming foundation from my high school IT technical course. I work on UI and robust backend systems, always learning and staying updated. 
   </p>
 </div>
 
