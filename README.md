@@ -14,7 +14,7 @@
 <div>
   <h2>Tecnologias</h2>
   <p>
-    <img height="25" width="25" src="https://cdn.simpleicons.org/css3" alt="CSS3"/> 
+    <img height="25" width="25" src="https://cdn.simpleicons.org/css" alt="CSS"/> 
     <img height="25" width="25" src="https://cdn.simpleicons.org/html5" alt="HTML5"/> 
     <img height="25" width="25" src="https://cdn.simpleicons.org/javascript" alt="JavaScript"/> 
     <img height="25" width="25" src="https://cdn.simpleicons.org/bootstrap" alt="Bootstrap"/> 
